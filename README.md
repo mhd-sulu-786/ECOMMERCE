@@ -8,6 +8,7 @@ To get started with this template, follow these steps:
 
 Clone the repository to your local machine:
 git clone https://github.com/mhd-sulu-786/Ecommerce.git
+show:https://mhd-sulu-786.github.io/Ecommerce/
 
 Navigate to the project directory:
 cd Ecommerce
